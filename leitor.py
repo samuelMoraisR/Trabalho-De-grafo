@@ -3,9 +3,9 @@ import sys
 from collections import defaultdict
 
 def ler_instancia(caminho_arquivo):
-    """
-    Lê um arquivo de instância grafo e retorna um dicionário estruturado com os dados
-    """
+    
+    """aqui lê um arquivo de instância e estamos retornando um dicionário estruturado com os dados"""
+
     try:
         with open(caminho_arquivo, 'r') as f:
             linhas = f.readlines()

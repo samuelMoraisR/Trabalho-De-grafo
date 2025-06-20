@@ -6,11 +6,11 @@ class Grafo:
         self.num_nodes = dados['num_nodes']
         self.vertices = set(range(1, dados['num_nodes'] + 1))
         
-        # Conexões
+        # Conexoes
         self.arestas = dados['required_edges'] + dados.get('non_required_edges', [])
         self.arcos = dados['required_arcs'] + dados.get('non_required_arcs', [])
         
-        # criamos estruturas auxiliares
+        
         self.adjacencia = defaultdict(list)
         self.graus = defaultdict(int)
         self._construir_grafo()
@@ -19,14 +19,14 @@ class Grafo:
         """tamo construindo a estrutura de adjacência do grafo here"""
         for aresta in self.arestas:
             u, v = aresta['from'], aresta['to']
-            self.adjacencia[u].append((v, False))  # caso for False indica aresta não direcionada
+            self.adjacencia[u].append((v, False))  # caso for False indica aresta ñ direcionada
             self.adjacencia[v].append((u, False))
             self.graus[u] += 1
             self.graus[v] += 1
             
         for arco in self.arcos:
             u, v = arco['from'], arco['to']
-            self.adjacencia[u].append((v, True))  # True indica arco (direcionado)
+            self.adjacencia[u].append((v, True))  # verdadeiro indica arco (direcionado)
             self.graus[u] += 1
     
     def calcular_graus(self):
