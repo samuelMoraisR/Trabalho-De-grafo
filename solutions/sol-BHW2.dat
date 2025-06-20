@@ -1,0 +1,6 @@
+TotalCost 526
+Route 1: 1 2 3 4 1 7 1 | Load 5 | Cost 114
+Route 2: 1 10 8 7 6 5 1 | Load 5 | Cost 60
+Route 3: 1 12 5 3 11 4 1 | Load 5 | Cost 90
+Route 4: 1 10 9 2 4 5 1 | Load 5 | Cost 88
+Route 5: 1 12 6 11 8 9 1 | Load 5 | Cost 174

@@ -1,0 +1,18 @@
+TotalCost 2305
+Route 1: 1 2 3 4 10 9 3 2 7 9 1 | Load 75 | Cost 135
+Route 2: 1 5 6 1 2 7 6 12 11 5 1 | Load 73 | Cost 122
+Route 3: 1 5 18 19 11 5 6 13 7 8 12 1 | Load 75 | Cost 124
+Route 4: 1 6 7 8 14 13 21 20 12 6 13 7 1 | Load 74 | Cost 113
+Route 5: 1 11 19 20 30 26 18 29 26 19 18 29 1 | Load 74 | Cost 121
+Route 6: 1 13 14 15 9 16 15 23 22 14 8 9 30 1 | Load 75 | Cost 128
+Route 7: 1 20 19 26 34 35 36 37 38 43 37 45 1 | Load 75 | Cost 129
+Route 8: 1 21 22 31 23 24 16 17 10 4 1 | Load 75 | Cost 143
+Route 9: 1 21 27 30 34 40 41 35 27 31 32 24 1 | Load 75 | Cost 134
+Route 10: 1 30 27 36 42 41 48 47 40 33 29 34 1 | Load 74 | Cost 136
+Route 11: 1 18 26 34 33 39 29 18 33 49 1 | Load 74 | Cost 149
+Route 12: 1 15 9 3 4 9 16 15 23 22 14 1 | Load 74 | Cost 128
+Route 13: 1 22 31 37 32 28 25 17 10 16 28 1 | Load 75 | Cost 155
+Route 14: 1 27 31 23 24 25 17 24 25 32 31 1 | Load 75 | Cost 143
+Route 15: 1 39 33 46 47 33 34 27 36 43 1 | Load 75 | Cost 151
+Route 16: 1 37 32 38 45 50 43 28 38 32 1 | Load 73 | Cost 146
+Route 17: 1 32 44 49 48 50 44 46 1 | Load 58 | Cost 148

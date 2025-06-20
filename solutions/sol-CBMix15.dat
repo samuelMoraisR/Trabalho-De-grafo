@@ -1,0 +1,27 @@
+TotalCost 48939
+Route 1: 22 12 5 4 3 2 22 | Load 1521 | Cost 1885
+Route 2: 22 21 16 10 3 11 22 | Load 1514 | Cost 1794
+Route 3: 22 23 13 24 22 | Load 1563 | Cost 1791
+Route 4: 22 30 29 20 15 9 22 | Load 1483 | Cost 1861
+Route 5: 22 31 23 24 32 37 22 | Load 1513 | Cost 1990
+Route 6: 22 39 38 29 22 | Load 1464 | Cost 1689
+Route 7: 22 17 11 4 33 22 | Load 1547 | Cost 2127
+Route 8: 22 20 19 38 22 | Load 1554 | Cost 1930
+Route 9: 22 29 28 20 27 22 | Load 1501 | Cost 1842
+Route 10: 22 11 16 15 8 22 | Load 1547 | Cost 1957
+Route 11: 22 13 6 5 22 | Load 1462 | Cost 1694
+Route 12: 22 32 40 31 50 22 | Load 1542 | Cost 1968
+Route 13: 22 40 41 32 51 22 | Load 1461 | Cost 1910
+Route 14: 22 14 7 6 22 | Load 1412 | Cost 1712
+Route 15: 22 10 9 2 25 22 | Load 1513 | Cost 2045
+Route 16: 22 51 50 49 48 22 | Load 1561 | Cost 1976
+Route 17: 22 49 37 36 22 | Load 1483 | Cost 1875
+Route 18: 22 37 27 35 22 | Load 1432 | Cost 1874
+Route 19: 22 18 8 1 22 | Load 1430 | Cost 1873
+Route 20: 22 26 27 34 22 | Load 1516 | Cost 1945
+Route 21: 22 52 47 44 42 22 | Load 1479 | Cost 2133
+Route 22: 22 35 44 46 22 | Load 1541 | Cost 2010
+Route 23: 22 25 34 47 22 | Load 1454 | Cost 1963
+Route 24: 22 1 42 22 | Load 1122 | Cost 1728
+Route 25: 22 43 44 22 | Load 1125 | Cost 1534
+Route 26: 22 45 46 22 | Load 1348 | Cost 1833

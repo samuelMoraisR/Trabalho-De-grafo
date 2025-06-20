@@ -1,0 +1,8 @@
+TotalCost 15820
+Route 1: 21 20 25 24 14 6 1 6 13 21 | Load 1806 | Cost 2228
+Route 2: 21 17 16 8 7 13 15 16 9 10 29 21 | Load 1799 | Cost 2257
+Route 3: 21 22 17 18 10 4 5 10 21 | Load 1805 | Cost 2232
+Route 4: 21 25 33 32 24 26 34 35 21 | Load 1778 | Cost 2135
+Route 5: 21 17 23 18 10 19 21 | Load 1751 | Cost 2202
+Route 6: 21 26 33 31 27 35 36 37 28 29 21 | Load 1808 | Cost 2436
+Route 7: 21 36 30 19 10 11 2 21 | Load 1679 | Cost 2330
